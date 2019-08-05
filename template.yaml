@@ -1,6 +1,7 @@
-rdprofileurl:
-title:
-shortdescription:
-ingredients:
-directions:
-imageurl:
+rdprofileurl: #your RD profile URL
+title: # the recipe name/title
+category: # appetizers, soups and salads, side dishes, main courses, sweets and drinks
+shortdescription: # a brief description of your recipe
+ingredients: # list of ingredients
+directions: # detailed directions
+imageurl: # the best image that represents the recipe
